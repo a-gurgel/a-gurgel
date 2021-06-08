@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oie, tudo bem por aí? Me chamo Ananda 👋
+
+![Snake animation](https://github.com/a-gurgel/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **a-gurgel/a-gurgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
