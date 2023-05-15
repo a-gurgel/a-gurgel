@@ -1,4 +1,4 @@
-### Oie, tudo bem por aí? Me chamo Ananda 👋
+### Oie, tudo bem por aí? Por aqui você irá encontrar alguns estudos de projetos finalizados e/ou não 🙃  👋
 
  <div>
   <a href="https://github.com/rafaballerini">
